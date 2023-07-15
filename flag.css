@@ -1,0 +1,12 @@
+.flag-icon {
+    width: 30px; /* Adjust the width and height as needed */
+    height: 20px;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .flag-icon-XX {
+    background-image: url("path/to/flags/XX.png"); /* Replace XX with the country code and provide the path to the corresponding flag image */
+  }
+  
